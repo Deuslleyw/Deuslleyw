@@ -14,9 +14,9 @@
   
   ## 
   
- ## {Back-end} {Java dev} {Spring} {API_REST} {React} ; 
+ ## █ Back-end █ Java dev █ Spring   █ API_REST    █ React  
 
 
-## [Passionate about technology ]
+##  Passionate about technology 
 
 ##  Contact: Deuslleyw@hotmail.com
