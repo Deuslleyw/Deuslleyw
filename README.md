@@ -14,7 +14,7 @@
   
   ## 
   
- ## █ Back-end █ Java dev █ Spring   █ API_REST    █ React  
+ ##                                        █ Back-end     █ Java dev    █ Spring      █ API_REST       █ React  
 
 
 ##  Passionate about technology 
