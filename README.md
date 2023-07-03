@@ -1,4 +1,4 @@
-## Hi 👋
+## Hi dev 👋
 
 <img src="https://raw.githubusercontent.com/Deuslleyw/gif/main/2641074%20(1).gif">
 
@@ -14,7 +14,7 @@
   
   ## 
   
- ##  █    Back-end       █    Java dev    █    Spring      █    API_REST       █    React  
+ ##  █  Back-end   █  Spring   █  API_REST  █    React   █ Kafka  █ JUnit  █ 
 
 
 ##  Passionate about technology 
