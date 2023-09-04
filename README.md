@@ -18,6 +18,12 @@
   <img align="center" alt="Steh-Af" height="35" width="40" src="https://user-images.githubusercontent.com/25181517/182884177-d48a8579-2cd0-447a-b9a6-ffc7cb02560e.png">
   <img align="center" alt="Steh-s" height="35" width="40" src="https://user-images.githubusercontent.com/25181517/192107004-2d2fff80-d207-4916-8a3e-130fee5ee495.png">
   <img align="center" alt="Steh-ss" height="35" width="40" src="https://user-images.githubusercontent.com/25181517/192108372-f71d70ac-7ae6-4c0d-8395-51d8870c2ef0.png">
+  <img align="center" alt="Steh-ss" height="35" width="40" src="https://user-images.githubusercontent.com/25181517/192108374-8da61ba1-99ec-41d7-80b8-fb2f7c0a4948.png">
+  <img align="center" alt="Steh-ss" height="35" width="40" src="https://user-images.githubusercontent.com/25181517/192108890-200809d1-439c-4e23-90d3-b090cf9a4eea.png">
+  <img align="center" alt="Steh-ss" height="35" width="40" src="https://user-images.githubusercontent.com/25181517/192108891-d86b6220-e232-423a-bf5f-90903e6887c3.png">
+  <img align="center" alt="Steh-ss" height="35" width="40" src="https://user-images.githubusercontent.com/25181517/192109061-e138ca71-337c-4019-8d42-4792fdaa7128.png">
+  <img align="center" alt="Steh-ss" height="35" width="40" src="https://user-images.githubusercontent.com/25181517/192108892-6e9b5cdf-4e35-4a70-ad9a-801a93a07c1c.png">
+
 
 
 ##  Passionate about technology 
