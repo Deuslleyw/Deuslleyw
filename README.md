@@ -1,4 +1,4 @@
-## Welcome my Developer zone 👋
+## Hi 👋
 
 <img src="https://raw.githubusercontent.com/Deuslleyw/gif/main/2641074%20(1).gif">
 
@@ -32,4 +32,4 @@
 
 <img src="https://user-images.githubusercontent.com/74038190/241765440-80728820-e06b-4f96-9c9e-9df46f0cc0a5.gif">
 
-##  Contact: Deuslleyw@hotmail.com
+##  Contact: DeusleyDev@outlook.com
